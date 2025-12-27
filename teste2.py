@@ -1,2 +1,2 @@
 print("hello world2")
-a  = 0
+a  = 99
